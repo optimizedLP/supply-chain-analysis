@@ -10,8 +10,8 @@ Interactive analysis of supply chain performance metrics including revenue, stoc
 - Defect rate analysis by transportation mode
 
 ## Results
-1. ![First Image](plots/1.png)
-2. ![Second Image](plots/3.png)
+![First Image](plots/1.png "Scatterplot: Revenue VS Product Type")
+![Second Image](plots/3.png "Bar Plot: Revenue VS Carrier Type")
 
 ## 🤝 Let's Connect
 
